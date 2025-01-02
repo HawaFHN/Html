@@ -1,5 +1,5 @@
 let mail       = document.getElementById('email')
-let password   = document.getElementById('Password')
+let password   = document.getElementById('password')
 
 let login = ()=>{
     mail        = mail.value  
